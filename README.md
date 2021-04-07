@@ -1,0 +1,1 @@
+## Project Status: [![Build status](https://ci.appveyor.com/api/projects/status/m2ds7ikwl3dbos74/branch/master?svg=true)](https://ci.appveyor.com/project/ZabavinaL/pageobject/branch/master)
